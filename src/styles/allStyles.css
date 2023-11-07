@@ -1,0 +1,37 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    background-color: #8DEBC2 !important;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.mui-image-wrapper {
+    justify-content: center !important;
+}
+
+.secHeader-icons{
+    display: flex;
+    width: 30% !important;  
+    margin-top: 5px;
+}
+
+.secAppBarContents{
+    padding: 5px;
+    margin: 5px;
+}
+
+.btn-sellOnSema {
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    line-height: 14px !important;
+    fill:#1A3C63 !important;
+    color:#1A3C63 !important;
+    border-radius: 8px 8px 8px 8px !important;
+    background-color: #fcb700 !important;
+    width: 20% !important;
+}
+
+.secAppBar {
+    background-color: #DEF4FC !important;
+}
